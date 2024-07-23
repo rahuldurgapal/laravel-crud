@@ -35,7 +35,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <span>Copyright © @php echo date('Y'); @endphp | <a href="https://www.yahoobaba.net" class="text-white" target="_blank">YahooBaba</a></span>
+                        <span>Copyright © @php echo date('Y'); @endphp | <a href="https://linkedin.com/in/rahuldurgapal" class="text-white" target="_blank">Rahul Durgapal</a></span>
                     </div>
                 </div>
             </div>
